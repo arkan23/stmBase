@@ -1,0 +1,9 @@
+.Id
+.project
+.cproject
+.settings
+.idea
+*.ld
+.code_review_properties
+
+Debug
